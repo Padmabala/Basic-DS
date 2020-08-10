@@ -8,5 +8,6 @@ p=input("enter the password: ")
 if(u in contents[0] and p in contents[1]):
     print("Correct Username and password")
 else:
-    print("Incorrect Username and password")
+    print("Incorrect Username an"
+          "d password")
     
