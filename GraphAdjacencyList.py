@@ -12,7 +12,7 @@ class Graph:
         self.vertD={}
         self.vertexIndex=-1
         self.adjList={}
-        self.verticeList=[]
+        self.velrticeList=[]
     def addVertex(self,vertex):
         if(len(self.vertices)<self.graphSize):
             self.vertexIndex+=1
